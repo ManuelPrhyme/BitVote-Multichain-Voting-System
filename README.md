@@ -26,7 +26,7 @@ BitVote is structured into **three architectural layers**:
 
 ---
 
-## ⚙️ Workflows
+##  Workflows
 
 BitVote defines **three primary workflows**, each mapped to a governance function:
 
@@ -80,7 +80,7 @@ BitVote defines **three primary workflows**, each mapped to a governance functio
 
 ---
 
-## 🔑 Utility of BitVote
+##  Utility of BitVote
 
 - **Decentralized Governance:** Transparent, tamper-proof voting across multiple chains.  
 - **Cross-Chain Synchronization:** Eliminates fragmentation by mirroring campaigns and votes globally.  
