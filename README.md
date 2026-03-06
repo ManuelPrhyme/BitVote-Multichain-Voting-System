@@ -1,7 +1,7 @@
 # BitVote-Multichain-Voting-System
 
 BitVote is a multi‑chain voting protocol that synchronizes election data across **Ethereum Sepolia**, **Arbitrum Sepolia**, and **Base Sepolia**.  
-Powered by **Chainlink CRE (Cross-Chain Runtime Environment) workflows**, it mirrors campaigns and votes across all networks, ensuring a unified, secure, and seamless environment for decentralized governance.
+Powered by **CRE (Chainlink Runtime Environment) workflows**, it mirrors campaigns and votes across all networks, ensuring a unified, secure, and seamless environment for decentralized governance.
 
 ---
 
@@ -105,3 +105,4 @@ BitVote defines **three primary workflows**, each mapped to a governance functio
 
 BitVote leverages **Chainlink CRE workflows** and **multichain smart contracts** to deliver a **global, synchronized, and secure voting system**.  
 With workflows for **casting votes**, **registering voters**, and **creating campaigns**, it ensures decentralized governance is accessible and reliable across multiple blockchain networks.
+
