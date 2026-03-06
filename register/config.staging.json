@@ -1,0 +1,6 @@
+{
+  "schedule": "*/30 * * * * *",
+  "Eth_Sepolia_bitVoteAddress":"0xC10Ad705Bc7730ccc694F4298A55709475F49F1D",
+  "Base_Sepolia_bitVoteAddress":"0x5f5030CFfc9C87105594303Dd59f5FbEEEd35AB9",
+  "Arbitrum_Sepolia_bitVoteAddress":"0x177F23f1f9C2f5e98f91E7B5644BFD5a84A74d3B"
+}
